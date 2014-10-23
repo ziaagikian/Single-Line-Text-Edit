@@ -9,4 +9,4 @@ It is QT based custom widget which allows you to have single line TextEdit. It i
 
 <h3> License </h3>
 
-Single-Line-Text-Edit is licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>.
+Single-Line-Text-Edit is licensed under the <a href="http://www.gnu.org/licenses/">GNU GPL</a>.
