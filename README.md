@@ -5,3 +5,8 @@ It is QT based custom widget which allows you to have single line TextEdit. It i
 2)- Disable horizontal and vertical scrolls.
 
 3)- Set Fixed height i-e that of height of default fonts + padding if you want too.
+
+
+<h3> License </h3>
+
+Single-Line-Text-Edit is licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>.
